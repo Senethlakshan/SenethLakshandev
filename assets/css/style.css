@@ -1104,3 +1104,13 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+
+.skill-tile {
+  transition: transform 0.3s ease;
+}
+
+.skill-tile:hover {
+  transform: scale(1.1);
+}
